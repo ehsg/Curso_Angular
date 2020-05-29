@@ -1,0 +1,10 @@
+Instalar Node.js
+Instalar Angular = npm install -g @angular/cli
+Instalar Bootstrap = npm install bootstrap
+
+Novo Projeto
+ng new <<nome>>
+
+Rodar Aplicação
+ng serve
+

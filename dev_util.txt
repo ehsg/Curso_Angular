@@ -8,3 +8,5 @@ ng new <<nome>>
 Rodar Aplicação
 ng serve
 
+Iniciar server json
+json-server --watch <<db>>
